@@ -1,0 +1,4 @@
+// a javascript kinda language
+
+var name = "Hello world";
+print(name);
